@@ -1,4 +1,4 @@
-# 🚀 TON Connect
+TBh2UQoENVccCq9GHzeg88DneqkjQ8eoHM# 🚀 TON Connect
 
 Welcome to the implementation of the TonConnect protocol! Before diving in, here's where to start:
 
